@@ -1,0 +1,46 @@
+points:
+  key:
+    padding: u
+  zones:
+    main:
+      rows:
+        bottom:
+        home:
+        top:
+        toppest:
+          shift: [0,2.5]
+        tiptoppiest:
+          shift: [0,2.5]
+      columns:
+        one:
+          spread: u
+        two:
+          spread: u + 1.5
+        three:
+          spread: u + 1.5
+    thumb:
+      anchor:
+        ref: main_one_bottom
+        shift: [-40,5]
+        rotate: -55
+      rows:
+      columns:
+        bottom:
+    team_extra_L:
+      anchor:
+        ref: main_one_top
+        shift: [-21,-12.5]
+      rows:
+        one:
+        two:
+          shift: [0,2.5]
+      columns:
+    team_extra_R:
+      anchor:
+        ref: main_three_top
+        shift: [21,-12.5]
+      rows:
+        one:
+        two:
+          shift: [0,2.5]
+      columns:

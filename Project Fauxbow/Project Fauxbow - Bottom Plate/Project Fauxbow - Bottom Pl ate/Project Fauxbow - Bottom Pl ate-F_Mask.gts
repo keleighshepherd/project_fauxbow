@@ -1,0 +1,35 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.5)*%
+%TF.CreationDate,2022-06-01T14:16:37+01:00*%
+%TF.ProjectId,Project Fauxbow - Bottom Pl ate,50726f6a-6563-4742-9046-617578626f77,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Top*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.5)) date 2022-06-01 14:16:37*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,4.500000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H5*%
+X206122207Y-85250691D03*
+%TD*%
+%TO.C,H6*%
+X97822207Y-112650691D03*
+%TD*%
+%TO.C,H3*%
+X125226875Y-108955359D03*
+%TD*%
+%TO.C,H1*%
+X110222207Y-66050691D03*
+%TD*%
+%TO.C,H4*%
+X190226875Y-111155359D03*
+%TD*%
+%TO.C,H2*%
+X187722207Y-47950691D03*
+%TD*%
+M02*
